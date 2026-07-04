@@ -3,7 +3,7 @@ import { supabase } from '@/lib/supabase';
 import Groq from 'groq-sdk';
 import { checkSafetyEscalation } from '@/lib/safety-escalation';
 
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const groq = new Groq({ apiKey: process.env.GROQ_API_KEY || 'placeholder' });
 
 async function getClinicId(request: Request): Promise<string | null> {
   const authHeader = request.headers.get('Authorization');

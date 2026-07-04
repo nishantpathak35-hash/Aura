@@ -1,1 +1,1 @@
-{ "buildCommand": "npm remove @open-wa/wa-automate @whiskeysockets/baileys whatsapp-web.js pino qrcode-terminal gtts && next build", "build": { "env": { "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD": "true", "PUPPETEER_SKIP_DOWNLOAD": "true" } } }
+{ "build": { "env": { "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD": "true", "PUPPETEER_SKIP_DOWNLOAD": "true" } } }

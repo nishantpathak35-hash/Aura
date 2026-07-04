@@ -1,0 +1,4 @@
+2026/07/03-19:39:33.994 34c4 Creating DB C:\Aura\web\.wwebjs_auth\session\Default\shared_proto_db since it was missing.
+2026/07/03-19:39:34.000 34c4 Reusing MANIFEST C:\Aura\web\.wwebjs_auth\session\Default\shared_proto_db/MANIFEST-000001
+2026/07/03-19:39:34.001 34c4 Recovering log #3
+2026/07/03-19:39:34.002 34c4 Reusing old log C:\Aura\web\.wwebjs_auth\session\Default\shared_proto_db/000003.log 

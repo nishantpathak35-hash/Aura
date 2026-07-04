@@ -1,0 +1,4 @@
+2026/07/03-19:39:33.881 34c4 Creating DB C:\Aura\web\.wwebjs_auth\session\Default\Site Characteristics Database since it was missing.
+2026/07/03-19:39:33.892 34c4 Reusing MANIFEST C:\Aura\web\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
+2026/07/03-19:39:33.892 34c4 Recovering log #3
+2026/07/03-19:39:33.893 34c4 Reusing old log C:\Aura\web\.wwebjs_auth\session\Default\Site Characteristics Database/000003.log 

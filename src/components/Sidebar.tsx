@@ -1,7 +1,16 @@
+'use client';
+
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { LayoutDashboard, MessageSquare, Calendar, BookOpen, Settings } from 'lucide-react';
 
 export function Sidebar() {
+  const pathname = usePathname();
+
+  if (pathname?.startsWith('/call')) {
+    return null;
+  }
+
   const navItems = [
     { name: 'Dashboard', href: '/', icon: LayoutDashboard },
     { name: 'Conversations', href: '/conversations', icon: MessageSquare },

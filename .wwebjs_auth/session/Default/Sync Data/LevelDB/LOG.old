@@ -1,0 +1,4 @@
+2026/07/03-19:39:33.877 2d88 Creating DB C:\Aura\web\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2026/07/03-19:39:33.886 2d88 Reusing MANIFEST C:\Aura\web\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/03-19:39:33.886 2d88 Recovering log #3
+2026/07/03-19:39:33.887 2d88 Reusing old log C:\Aura\web\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 
